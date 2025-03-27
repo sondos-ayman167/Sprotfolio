@@ -1,0 +1,87 @@
+.sec {
+    background-color: #523612;
+    color: rgb(255, 255, 255);
+    padding: 60px 0;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .description {
+    font-size: 16px;
+    color: #bbb;
+    margin-bottom: 40px;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+  }
+  
+  .focus-area {
+    width: 40%;
+    text-align: left;
+  }
+  
+  .focus-area h3 {
+    font-size: 20px;
+  }
+  
+  .focus-area hr {
+    width: 50px;
+    border: 1px solid white;
+    margin: 10px 0;
+  }
+  
+  .focus-area ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .focus-area li {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .bars {
+    width: 55%;
+  }
+  
+  .skill {
+    margin-bottom: 15px;
+  }
+  
+  .skill span {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .progress {
+    background: #e5b77fcd;
+    height: 10px;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .progress-bar {
+    height: 100%;
+    background: #84581f;
+    width: 0;
+
+  }
+  
+  
+  .html { width: 150px; }
+  .css { width: 200px; }
+  .js { width: 190px; }
+  .react { width: 250px; }
+  .photoshop { width: 306px; }
+  .xd { width: 605px; }
+  .node { width: 330px; }
+  .wordpress { width: 500px; }

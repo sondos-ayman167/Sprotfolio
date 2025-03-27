@@ -1,0 +1,42 @@
+.sec {
+  background-color: rgb(248, 244, 240); 
+  padding: 60px 0;
+  text-align: center;}
+
+
+
+.content {
+  background: rgba(227, 219, 212, 0.9); 
+  padding: 50px;
+  border-radius: 20px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  color: rgb(105, 75, 39);
+}
+
+h2 {
+  font-size: 32px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+  p {
+  font-size: 16px;
+  color: #c6aa80;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.btn {
+  background: rgb(110, 81, 38);
+  color: white;
+  padding: 12px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  
+}
+
+.btn:hover {
+  background: #c2a67a;
+}
